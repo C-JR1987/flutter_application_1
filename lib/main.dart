@@ -137,7 +137,7 @@ class TinderPage extends StatelessWidget {
                       "SIGN IN WITH PHONE NUMBER",
                       style: TextStyle(
                         fontSize: 16,
-                        color: const Color.fromARGB(255, 255, 255, 255),
+                        color: const Color.fromARGB(255, 255, 253, 253),
                       ),
                     ),
                   ],
